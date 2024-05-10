@@ -1,5 +1,5 @@
 # SQL
-This repository houses files that I have created using MySQL through Analyst Builder projects that started with introducatory concepts and led to advanced functions.
+This repository houses files that I have created using MySQL through Analyst Builder course projects.The first course started with introducatory concepts and the second course instructed advanced functions.
 
 The CSV files 'WorldLifeExpecancy', 'USHouseholdIncome' and 'USHouseholdIncome_Statistics'  were availible through the course resources.
 
